@@ -1,0 +1,8 @@
+# Адрес VPN сервера
+GATEWAY="123.123.123.123"
+# Коды стран
+COUNTRIES="ru by"
+# Расположение файла с адресами и доменами
+FILE="/opt/etc/unblock/unblock-list.txt"
+# Расположение файла с конечной таблицей
+TEMPFILE="/opt/etc/unblock/temp.txt"
